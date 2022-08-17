@@ -134,6 +134,7 @@ Django_Server/core/settings.py
 
 # dependencies
 /node_modules
+React_Client/node_modules
 /.pnp
 .pnp.js
 
